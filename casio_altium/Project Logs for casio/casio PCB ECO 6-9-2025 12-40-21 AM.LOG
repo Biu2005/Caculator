@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PA0 Pin=U1-6
+Removed Pin From Net: NetName=PA1 Pin=U1-7
+Removed Pin From Net: NetName=PA3 Pin=U1-9
+Removed Pin From Net: NetName=PA4 Pin=U1-10
+Added Pin To Net: NetName=PA4 Pin=U1-6
+Added Pin To Net: NetName=PA3 Pin=U1-7
+Added Pin To Net: NetName=PA1 Pin=U1-9
+Added Pin To Net: NetName=PA0 Pin=U1-10
+Added Member To Class: ClassName=casio Member=Component LCD1 LCD 16x2A
+Added Member To Class: ClassName=casio Member=Component STlink JP4
+Added Member To Class: ClassName=casio Member=Component U1 STM32F030K6T6

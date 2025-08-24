@@ -1,0 +1,35 @@
+Added Component: Designator=U1(QFP80P900X900X160-32N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F030K6T6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "497-14046-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F030K6T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-32 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F030K6T6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F030K6T6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=NRST Pin=U1-4
+Added Pin To Net: NetName=+3.3 Pin=U1-5
+Added Pin To Net: NetName=PA6 Pin=U1-6
+Added Pin To Net: NetName=PA7 Pin=U1-7
+Added Pin To Net: NetName=PA8 Pin=U1-8
+Added Pin To Net: NetName=RS Pin=U1-9
+Added Pin To Net: NetName=EN Pin=U1-10
+Added Pin To Net: NetName=D4 Pin=U1-11
+Added Pin To Net: NetName=D5 Pin=U1-12
+Added Pin To Net: NetName=D6 Pin=U1-13
+Added Pin To Net: NetName=D7 Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=+3.3 Pin=U1-17
+Added Pin To Net: NetName=SWDIO Pin=U1-23
+Added Pin To Net: NetName=SWCLK Pin=U1-24
+Added Pin To Net: NetName=PA5 Pin=U1-25
+Added Pin To Net: NetName=PA4 Pin=U1-26
+Added Pin To Net: NetName=PA3 Pin=U1-27
+Added Pin To Net: NetName=PA2 Pin=U1-28
+Added Pin To Net: NetName=PA1 Pin=U1-29
+Added Pin To Net: NetName=PA0 Pin=U1-30
+Added Pin To Net: NetName=NetR2_1 Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Member To Class: ClassName=casio Member=Component LCD1 LCD 16x2A
+Added Member To Class: ClassName=casio Member=Component U1 STM32F030K6T6

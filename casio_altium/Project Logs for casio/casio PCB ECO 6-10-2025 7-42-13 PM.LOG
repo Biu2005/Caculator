@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=RS Pin=U1-9
+Added Pin To Net: NetName=EN Pin=U1-10
+Added Pin To Net: NetName=D4 Pin=U1-11
+Added Pin To Net: NetName=D5 Pin=U1-12
+Added Pin To Net: NetName=D6 Pin=U1-13
+Added Pin To Net: NetName=D7 Pin=U1-18
+Added Member To Class: ClassName=casio Member=Component LCD1 LCD 16x2A
+Added Member To Class: ClassName=casio Member=Component R1 Res

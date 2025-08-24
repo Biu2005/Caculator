@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=STlink-3
+Removed Pin From Net: NetName=+3.3 Pin=STlink-4
+Added Pin To Net: NetName=+3.3 Pin=STlink-3
+Added Pin To Net: NetName=GND Pin=STlink-4
+Added Member To Class: ClassName=casio Member=Component LCD1 LCD 16x2A

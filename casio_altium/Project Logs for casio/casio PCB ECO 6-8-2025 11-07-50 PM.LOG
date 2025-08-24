@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=+3.3 Pin=R4-2
+Removed Pin From Net: NetName=+3.3 Pin=R5-2
+Removed Pin From Net: NetName=+3.3 Pin=R6-2
+Removed Pin From Net: NetName=+3.3 Pin=R7-2
+Removed Pin From Net: NetName=+3.3 Pin=R8-2
+Change Component Comment : Designator=R? Old Comment=Res New Comment=1k
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Added Pin To Net: NetName=+3.3 Pin=C7-1
+Added Pin To Net: NetName=+3.3 Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C10-1
+Added Pin To Net: NetName=+3.3 Pin=C11-1
+Added Pin To Net: NetName=+3.3 Pin=SW2-2
+Added Pin To Net: NetName=+3.3 Pin=SW2-3
+Added Pin To Net: NetName=+3.3 Pin=SW3-2
+Added Pin To Net: NetName=+3.3 Pin=SW3-3
+Added Pin To Net: NetName=+3.3 Pin=SW4-2
+Added Pin To Net: NetName=+3.3 Pin=SW4-3
+Added Pin To Net: NetName=+3.3 Pin=SW5-2
+Added Pin To Net: NetName=+3.3 Pin=SW5-3
+Added Pin To Net: NetName=+3.3 Pin=SW6-2
+Added Pin To Net: NetName=+3.3 Pin=SW6-3
+Added Pin To Net: NetName=+3.3 Pin=SW7-2
+Added Pin To Net: NetName=+3.3 Pin=SW7-3
+Added Pin To Net: NetName=+3.3 Pin=SW8-2
+Added Pin To Net: NetName=+3.3 Pin=SW8-3
+Added Pin To Net: NetName=+3.3 Pin=SW9-2
+Added Pin To Net: NetName=+3.3 Pin=SW9-3
+Added Pin To Net: NetName=+3.3 Pin=SW10-2
+Added Pin To Net: NetName=+3.3 Pin=SW10-3
+Added Pin To Net: NetName=+3.3 Pin=SW11-2
+Added Pin To Net: NetName=+3.3 Pin=SW11-3
+Added Pin To Net: NetName=+3.3 Pin=SW12-2
+Added Pin To Net: NetName=+3.3 Pin=SW12-3
+Added Pin To Net: NetName=+3.3 Pin=SW13-2
+Added Pin To Net: NetName=+3.3 Pin=SW13-3
+Added Pin To Net: NetName=+3.3 Pin=SW14-2
+Added Pin To Net: NetName=+3.3 Pin=SW14-3
+Added Pin To Net: NetName=+3.3 Pin=SW15-2
+Added Pin To Net: NetName=+3.3 Pin=SW15-3
+Added Pin To Net: NetName=+3.3 Pin=SW16-2
+Added Pin To Net: NetName=+3.3 Pin=SW16-3
+Added Pin To Net: NetName=+3.3 Pin=SW17-2
+Added Pin To Net: NetName=+3.3 Pin=SW17-3
+Added Pin To Net: NetName=+3.3 Pin=SW18-2
+Added Pin To Net: NetName=+3.3 Pin=SW18-3
+Added Pin To Net: NetName=+3.3 Pin=SW19-2
+Added Pin To Net: NetName=+3.3 Pin=SW19-3
+Added Pin To Net: NetName=+3.3 Pin=SW20-2
+Added Pin To Net: NetName=+3.3 Pin=SW20-3
+Added Pin To Net: NetName=+3.3 Pin=SW21-2
+Added Pin To Net: NetName=+3.3 Pin=SW21-3
+Added Pin To Net: NetName=+3.3 Pin=U1-6
+Added Pin To Net: NetName=+3.3 Pin=U1-7
+Added Pin To Net: NetName=+3.3 Pin=U1-8
+Added Pin To Net: NetName=+3.3 Pin=U1-9
+Added Pin To Net: NetName=+3.3 Pin=U1-10
+Change Net Name : Old Net Name=+3.3 New Net Name=PA0
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
