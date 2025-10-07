@@ -1,9 +1,0 @@
-../Core/Src/portasm.c:138:10:vRestoreContextOfFirstTask	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:165:12:xIsPrivileged	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:188:6:vRaisePrivilege	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:205:6:vResetPrivilege	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:222:6:vStartFirstTask	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:243:10:ulSetInterruptMask	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:258:6:vClearInterruptMask	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:392:10:PendSV_Handler	0	static,ignoring_inline_asm
-../Core/Src/portasm.c:497:10:SVC_Handler	0	static,ignoring_inline_asm

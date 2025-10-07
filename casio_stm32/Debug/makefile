@@ -9,6 +9,9 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include Middlewares/FreeRTOS/Src/subdir.mk
+-include Middlewares/FreeRTOS/MemMang/subdir.mk
+-include Middlewares/FreeRTOS/ARM_CM0/subdir.mk
 -include Drivers/STM32F0xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk
@@ -60,8 +63,8 @@ all: main-build
 main-build: casio_stm32.elf secondary-outputs
 
 # Tool invocations
-casio_stm32.elf casio_stm32.map: $(OBJS) $(USER_OBJS) D:\altium\source_casio\casio_stm32\STM32F030K6TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "casio_stm32.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"D:\altium\source_casio\casio_stm32\STM32F030K6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="casio_stm32.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+casio_stm32.elf casio_stm32.map: $(OBJS) $(USER_OBJS) D:\altium\ and\ source\ projects\source_casio\casio_stm32\STM32F030K6TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "casio_stm32.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"D:\altium and source projects\source_casio\casio_stm32\STM32F030K6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="casio_stm32.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

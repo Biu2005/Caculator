@@ -1,0 +1,2 @@
+../Core/Src/app_main.c:10:6:App_RunCalculatorMode	80	static
+../Core/Src/app_main.c:84:6:App_RunSolverMode	48	static

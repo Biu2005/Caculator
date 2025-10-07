@@ -1,0 +1,2 @@
+../Core/Src/keypad.c:20:13:set_all_row_high	16	static
+../Core/Src/keypad.c:27:6:keyPad_scan	16	static

@@ -1,0 +1,8 @@
+../Core/Src/calculator_engine.c:11:14:eval_simple	13
+../Core/Src/calculator_engine.c:59:14:calc	3
+../Core/Src/calculator_engine.c:74:12:binary_search_root	5
+../Core/Src/calculator_engine.c:103:13:reverse_str	2
+../Core/Src/calculator_engine.c:117:7:Calculate	8
+../Core/Src/calculator_engine.c:152:6:solve_the_equation	9
+../Core/Src/calculator_engine.c:199:6:int_to_str	7
+../Core/Src/calculator_engine.c:223:6:float_to_str	10

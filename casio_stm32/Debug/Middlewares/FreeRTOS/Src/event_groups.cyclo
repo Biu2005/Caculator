@@ -1,0 +1,10 @@
+../Middlewares/FreeRTOS/Src/event_groups.c:145:28:xEventGroupCreate	2
+../Middlewares/FreeRTOS/Src/event_groups.c:185:17:xEventGroupSync	7
+../Middlewares/FreeRTOS/Src/event_groups.c:312:17:xEventGroupWaitBits	11
+../Middlewares/FreeRTOS/Src/event_groups.c:472:17:xEventGroupClearBits	1
+../Middlewares/FreeRTOS/Src/event_groups.c:524:17:xEventGroupGetBitsFromISR	1
+../Middlewares/FreeRTOS/Src/event_groups.c:547:17:xEventGroupSetBits	7
+../Middlewares/FreeRTOS/Src/event_groups.c:647:10:vEventGroupDelete	2
+../Middlewares/FreeRTOS/Src/event_groups.c:745:10:vEventGroupSetBitsCallback	1
+../Middlewares/FreeRTOS/Src/event_groups.c:761:10:vEventGroupClearBitsCallback	1
+../Middlewares/FreeRTOS/Src/event_groups.c:775:23:prvTestWaitCondition	4

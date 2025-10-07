@@ -25,4 +25,7 @@ SUBDIRS := \
 Core/Src \
 Core/Startup \
 Drivers/STM32F0xx_HAL_Driver/Src \
+Middlewares/FreeRTOS/ARM_CM0 \
+Middlewares/FreeRTOS/MemMang \
+Middlewares/FreeRTOS/Src \
 
